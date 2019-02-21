@@ -19,6 +19,4 @@ public class EmailTemplate {
         this.topic="test email";
         this.body="bla-bla-bla test email";
     }
-
-
 }
